@@ -1,0 +1,28 @@
+.cube{
+    width: 800px;
+    height: 400px;
+    background: silver;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.first{
+    width: 200px;
+    height: 300px;
+    background: khaki;
+    border: 1px solid black;
+    margin: 10px ;
+
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.button_box{
+display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

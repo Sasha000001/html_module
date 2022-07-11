@@ -1,0 +1,42 @@
+.target {
+    background: silver;
+    width: 800px;
+    height: 800px;
+
+}
+.widgets{
+    background: #3668af;
+    color: white;
+    width:640px;
+    height:120px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin:10px;
+}
+.middle{
+    display: flex;
+    font-size: 20px;
+    color: white;
+}
+.Big{
+    width: 200px;
+    height: 180px;
+    margin: 10px;
+    background: #244573;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.contact {
+    background: #3668af;
+    color: white;
+    width: 640px;
+    height: 300px;
+    margin: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+

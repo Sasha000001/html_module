@@ -1,0 +1,34 @@
+.cube{
+    background: cornflowerblue;
+    width: 950px;
+    height: 600px;
+    display: flex;}
+
+.star{
+    background: lightcoral;
+    width: 200px;
+    height: 300px;
+    text-align: center;
+
+}
+.location{
+    background: lightcoral;
+    width: 200px;
+    height: 300px;
+    text-align: center;
+}
+.fire{
+    background: lightcoral;
+    width: 200px;
+    height: 300px;
+    text-align: center;
+}
+.earth{
+    background: lightcoral;
+    width: 200px;
+    height: 300px;
+    text-align: center;
+}
+.icon{
+    align-items: center;
+}
