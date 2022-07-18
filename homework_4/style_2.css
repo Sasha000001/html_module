@@ -1,0 +1,43 @@
+.wrap{
+    width: 520px;
+    height: 700px;
+    /*background: silver;*/
+    border: 1px solid black;
+}
+.cube{ display: flex;}
+.a{
+    width:  500px;
+    height: 200px;
+    background: silver;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 2px;}
+.b{width:  350px;
+    height: 200px;
+    background: silver;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 2px;}
+.cde{
+    display: flex;
+}
+.id{
+    width:  100px;
+    height: 200px;
+    background: silver;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+margin: 2px
+}
+
+.f{width:  120px;
+    height: 400px;
+    background: silver;
+    margin: 2px;
+}
