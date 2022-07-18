@@ -1,0 +1,52 @@
+.cube{
+    width: 700px;
+    height: 600px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+}
+
+.comp{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+position: relative;
+    top: 50px;
+    display: flex;
+    justify-content: center;
+
+}
+.icon{
+ width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: -25px;
+    background: white;
+    color: goldenrod;
+
+}
+.button_box > button{
+    width: 80px;
+    height: 30px;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+position: absolute;
+    top: 150px;
+    right:  30%;
+    border: 1px solid black;
+    Text-decoration :none;
+
+}
+.text{
+    text-align: center;
+    position: absolute;
+    top: 15px
+}
+

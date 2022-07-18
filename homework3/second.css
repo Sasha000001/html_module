@@ -1,0 +1,55 @@
+.cube{
+    width: 800px;
+    height: 600px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main{
+    width: 700px;
+    height: 500px;
+    background: silver;
+    position: absolute;
+}
+.blue{
+    width: 700px;
+    height: 300px;
+    background: #182b3b;
+    position: relative;
+    top: 50px
+}
+.free{
+    width: 310px;
+    height: 100px;
+    /*background: antiquewhite;*/
+    position: relative;
+    top:245px;
+    display: flex;
+    left: 200px;
+
+}
+.violet{
+    width:100px;
+    height: 100px;
+    background: #6466d2;
+    margin: 5px;
+    border-radius: 5px;
+
+}
+.block{
+    width:130px;
+    height: 40px;
+    background: #182b3b;
+    position: relative;
+    left: 100px;
+    top: 30px;
+    border-radius: 5px;
+
+}
+.symbols{
+    position: relative;
+    left: 600px;
+    color: #9196b2;
+
+}

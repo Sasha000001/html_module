@@ -2,33 +2,45 @@
     background: cornflowerblue;
     width: 950px;
     height: 600px;
-    display: flex;}
+    box-sizing: border-box;
+    padding: 20px;
+    display: flex;
+}
 
 .star{
     background: lightcoral;
     width: 200px;
     height: 300px;
     text-align: center;
+    margin: auto;
 
 }
 .location{
     background: lightcoral;
     width: 200px;
     height: 300px;
-    text-align: center;
+    text-align: center;    margin: auto;
+
 }
 .fire{
     background: lightcoral;
     width: 200px;
     height: 300px;
-    text-align: center;
+    text-align: center;    margin: auto;
+
 }
 .earth{
     background: lightcoral;
     width: 200px;
     height: 300px;
     text-align: center;
+    margin: auto;
+
 }
 .icon{
+    display: flex;
+    justify-content: center;
     align-items: center;
+    
+
 }
